@@ -1,5 +1,5 @@
 # Bidder-Buddies---Admin-Panel
-Bidder Buddies is a real-time bidding system built with flutter and dart. It contains two primary parts in it. One is the buyer side application where buyer bids on auctions and buys them if he/she wins them and the other is the seller side application in which seller uploads auctions and tracks them. Real-time chat room is also available to discuss important things about the product between auctioneer and bidders.
+Bidder Buddies is a real-time bidding system built with flutter and dart. It contains two primary parts in it. One is the buyer side application where buyer bids on auctions and buys them if he/she wins them and the other is the seller side application in which seller uploads auctions and tracks them. Real-time chat room is also available to discuss important things about the product between auctioneer and bidders. This is the admin panel for that application which helps the admin to control and coordinate all the activities being performed on the user side application and take action according to those activities to provide smooth, reliable and friendly user experience.
 
 ## Major features of the Admin Panel:
 * Admin Authentication
